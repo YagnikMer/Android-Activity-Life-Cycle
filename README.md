@@ -3,8 +3,7 @@
 Events
 
 
-Activity A call Activity B
-Activity B back press
+Activity A call Activity B and Activity B back press
 
 
 
